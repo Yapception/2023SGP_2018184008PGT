@@ -14,10 +14,16 @@ High Concept : 횡스크롤 점프 게임
   - 여러가지 복잡한 구조물
   
 2. 예상 게임 실행 흐름
-  
+
+
+  ![KakaoTalk_20230403_205305943](https://user-images.githubusercontent.com/75257424/229521363-ba3e571a-af2e-46cc-8c31-09eb967fc2f3.jpg)
   출처 - 블레이드 키우기 게임
   
-  출처 - https://www.youtube.com/watch?v=X9Akkeo-yiU , Android 6.0 마시멜로우 이스터에그
+  
+  ![marshmallow-easteregg2](https://user-images.githubusercontent.com/75257424/229522137-7fbd76f9-e5ad-46be-900d-9de2ba7c8f79.jpg)
+  출처 - https://www.cnet.co.kr/view/?no=20151117110956, Android 6.0 마시멜로우 이스터에그
+  
+  ![flow](https://user-images.githubusercontent.com/75257424/229521235-f5ed9041-0aaf-4701-8349-56744068d88c.png)
   
   ![game over](https://user-images.githubusercontent.com/75257424/229517878-9329b815-d958-4181-a39c-c8b752e6f504.png)
 
