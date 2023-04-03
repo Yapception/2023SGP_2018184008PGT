@@ -1,6 +1,8 @@
 # 2023SGP_2018184008PGT
 2023 Smartphone Game Programing using AndroidStudio
 
+Jump Game
+
 2023 스마트폰 프로그래밍 02반 2018184008 박기태
 
 High Concept : 횡스크롤 점프 게임
