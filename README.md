@@ -19,6 +19,8 @@ High Concept : 횡스크롤 점프 게임
   
   출처 - https://www.youtube.com/watch?v=X9Akkeo-yiU , Android 6.0 마시멜로우 이스터에그
   
+  ![game over](https://user-images.githubusercontent.com/75257424/229517878-9329b815-d958-4181-a39c-c8b752e6f504.png)
+
 3. 개발 일정
 
 1주차 - 리소스 제작 & 수집
